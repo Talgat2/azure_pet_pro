@@ -1,0 +1,9 @@
+{
+	"name": "petprodftalgat",
+	"location": "polandcentral",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "9772fd1c-1480-4a71-8c90-83e26f31e3b6",
+		"tenantId": "33755ac4-c8c4-4070-ae87-e3a62d05557b"
+	}
+}
